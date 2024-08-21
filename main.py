@@ -10,7 +10,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-
+input()
 
 # först frågar programmet hur många sidor tärningarna har
 dice_sides = int(input("Skriv in hur många sidor tärningen har: "))
